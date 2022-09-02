@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EPISODES</name>
+   <tag></tag>
+   <elementGuidId>ba8032f1-1af1-4a67-a60c-eb149cf191b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.series-tab.ng-tns-c100-0.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/following::div[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2413f32c-5e9d-4a5b-bc12-aef99285f5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>series-tab ng-tns-c100-0 active</value>
+      <webElementGuid>7fc57458-2fe1-483e-aeba-42316ed9e546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> EPISODES </value>
+      <webElementGuid>235a6a45-e593-4a7b-b4fa-fef0f269d2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-series-view-v2[@class=&quot;ng-tns-c100-0 ng-star-inserted&quot;]/div[@class=&quot;container-fluid full-width d-flex flex-column overflow-hidden mocap series-view ng-tns-c100-0 ng-star-inserted&quot;]/div[@class=&quot;series-view-media-container container-fluid d-flex justify-content-between ng-tns-c100-0&quot;]/div[@class=&quot;dropdown-row mb-4 ng-tns-c100-0&quot;]/div[@class=&quot;col-sm-4 col-md-6 col-lg-6 ng-tns-c100-0&quot;]/div[@class=&quot;series-tabs ng-tns-c100-0&quot;]/div[@class=&quot;series-tab ng-tns-c100-0 active&quot;]</value>
+      <webElementGuid>16321460-809b-4462-bb94-6801e6c818b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/following::div[11]</value>
+      <webElementGuid>e6a7529a-ec45-4686-ad81-74d0a04bc5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::div[12]</value>
+      <webElementGuid>49acf915-80b3-40ff-bd80-f60cbd7fa08f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Season 1'])[1]/preceding::div[1]</value>
+      <webElementGuid>dbea34a4-22e1-4077-bad3-7155b059307e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EPISODES']/parent::*</value>
+      <webElementGuid>565c4433-5422-4d7e-b6b2-18a3454fd845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>1869db01-5d1a-4e3c-bf6e-b3760f86bea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' EPISODES ' or . = ' EPISODES ')]</value>
+      <webElementGuid>0cfa9248-0d2d-4597-9176-4b600c51ea67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

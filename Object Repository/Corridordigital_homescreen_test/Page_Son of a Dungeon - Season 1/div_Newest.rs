@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Newest</name>
+   <tag></tag>
+   <elementGuidId>4c2c9c8f-1094-4875-bfb1-983b04f17d02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>613d93d3-d242-454b-86bb-66b41018d4df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>series-view-dropdown-option ng-tns-c100-0 ng-star-inserted</value>
+      <webElementGuid>96f9a765-7814-4495-8a03-cc52da12c40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Newest</value>
+      <webElementGuid>91ee7618-8863-4e54-82cb-c47743d63048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-series-view-v2[@class=&quot;ng-tns-c100-0 ng-star-inserted&quot;]/div[@class=&quot;container-fluid full-width d-flex flex-column overflow-hidden mocap series-view ng-tns-c100-0 ng-star-inserted&quot;]/div[@class=&quot;series-view-media-container container-fluid d-flex justify-content-between ng-tns-c100-0&quot;]/div[@class=&quot;dropdown-row mb-4 ng-tns-c100-0&quot;]/div[@class=&quot;d-flex ng-tns-c100-0 filterOptions-MultipleButtons&quot;]/div[@class=&quot;series-view-dropdown-container ng-tns-c100-0&quot;]/div[@class=&quot;d-flex ng-tns-c100-0&quot;]/div[@class=&quot;dropdown-toggle series-view-dropdown-select sort-select ng-tns-c100-0&quot;]/div[@class=&quot;series-view-dropdown sort-by ng-tns-c100-0 ng-trigger ng-trigger-openClose&quot;]/div[@class=&quot;series-view-dropdown-option ng-tns-c100-0 ng-star-inserted&quot;]</value>
+      <webElementGuid>48f22596-f54c-42f9-9749-ab298333935e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oldest'])[1]/following::div[1]</value>
+      <webElementGuid>38ca1974-ca8d-4373-b2c5-f53a784c53cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode 1: Cecilton (and Sports as we Know It)'])[1]/preceding::div[7]</value>
+      <webElementGuid>53288fef-6ec7-4440-8b1f-f8db094b5d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Chancellor of Sport calls an emergency mee...'])[1]/preceding::div[8]</value>
+      <webElementGuid>993bd830-78d4-4e6d-92d5-5672b1543abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Newest']/parent::*</value>
+      <webElementGuid>efc3d069-3f0c-4d22-898c-2ada565c6cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>23343dcf-5290-4e07-b694-947c96daff7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Newest' or . = ' Newest')]</value>
+      <webElementGuid>c11b72d4-27de-4311-8ea2-0b3764c182bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
