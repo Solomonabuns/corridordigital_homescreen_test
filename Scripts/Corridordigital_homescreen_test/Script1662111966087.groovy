@@ -39,13 +39,12 @@ WebUI.enhancedClick(findTestObject('Corridordigital_homescreen_test/Page_Son of 
 
 WebUI.enhancedClick(findTestObject('Corridordigital_homescreen_test/Page_Son of a Dungeon - Season 1/div_Season 1  Season 1  Season 2'))
 
-WebUI.enableSmartWait()
+WebUI.mouseOverOffset(findTestObject('Page_Son of a Dungeon - Season 1/div_The encounter with the Orcs turns bloody as th_thumb-hover p-1 p-md-2'), 
+    0, 0)
 
-WebUI.mouseOver(findTestObject('Corridordigital_homescreen_test/Page_Son of a Dungeon - Season 1/img_Halfway to Wentinghamshire, the Crew stops for_thumb-image h-100 w-100'))
+WebUI.enhancedClick(findTestObject('Page_Son of a Dungeon - Season 1/div_With the Horde attacking Wentinghamshire, the_thumb-hover p-1 p-md-2'))
 
-WebUI.enableSmartWait()
-
-WebUI.click(findTestObject('Corridordigital_homescreen_test/Page_Son of a Dungeon - Season 1/img_Halfway to Wentinghamshire, the Crew stops for_thumb-image h-100 w-100'))
+WebUI.closeBrowser()
 
 WebUI.openBrowser('https://www.corridordigital.com/season/1')
 

@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Son of a Dungeon - Season 1/div_With the Horde attacking Wentinghamshire, the_thumb-hover p-1 p-md-2",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027With the Horde attacking Wentinghamshire, the ...\u0027])[1]/following::div[6]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "/html[1]/body[1]/app-root[1]/app-series-view-v2[@class\u003d\"ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"container-fluid full-width d-flex flex-column overflow-hidden mocap series-view ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"series-view-media-container container-fluid d-flex justify-content-between ng-tns-c100-0\"]/app-series-view-media-item-v2[@class\u003d\"ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"series-view-thumb ng-star-inserted\"]/app-video-thumb-simple[1]/div[@class\u003d\"thumb\"]/div[@class\u003d\"thumb-hover p-1 p-md-2\"]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Son of a Dungeon - Season 1/div_With the Horde attacking Wentinghamshire, the_thumb-hover p-1 p-md-2_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Son of a Dungeon - Season 1/div_The encounter with the Orcs turns bloody as th_thumb-hover p-1 p-md-2",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027The encounter with the Orcs turns bloody as th...\u0027])[1]/following::div[6]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "/html[1]/body[1]/app-root[1]/app-series-view-v2[@class\u003d\"ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"container-fluid full-width d-flex flex-column overflow-hidden mocap series-view ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"series-view-media-container container-fluid d-flex justify-content-between ng-tns-c100-0\"]/app-series-view-media-item-v2[@class\u003d\"ng-tns-c100-0 ng-star-inserted\"]/div[@class\u003d\"series-view-thumb ng-star-inserted\"]/app-video-thumb-simple[1]/div[@class\u003d\"thumb\"]/div[@class\u003d\"thumb-hover p-1 p-md-2\"]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Son of a Dungeon - Season 1/div_The encounter with the Orcs turns bloody as th_thumb-hover p-1 p-md-2_BASIC.png"
+    }
+  ]
 }
